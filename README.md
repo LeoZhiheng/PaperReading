@@ -4,6 +4,6 @@
 
 ### 3D Object Detection   
 
-#### [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://www.notion.so/VoxelNet-Paper-Analysis-CVPR-2018-7d86bdcccadf469e946e1d571b31a729?pvs=4)     
+#### [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://distinct-reading-260.notion.site/VoxelNet-2be72e5916f347359e8b4d37d26e877d)     
 
 ![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/VoxelNet.png)
