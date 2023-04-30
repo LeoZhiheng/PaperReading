@@ -7,3 +7,8 @@
 #### [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://distinct-reading-260.notion.site/VoxelNet-2be72e5916f347359e8b4d37d26e877d)     
 
 ![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/VoxelNet.png)
+
+#### [SECOND: Sparsely Embedded Convolutional Detection]     
+
+![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/Second.png)
+
