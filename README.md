@@ -8,7 +8,7 @@
 
 ![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/VoxelNet.png)
 
-#### [SECOND: Sparsely Embedded Convolutional Detection]     
+#### [SECOND: Sparsely Embedded Convolutional Detection](https://distinct-reading-260.notion.site/VoxelNet-bf05c794364248af81eff1d14bc465b5)     
 
 ![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/Second.png)
 
