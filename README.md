@@ -12,7 +12,7 @@
 
 ![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/Second.png)
 
-#### [PointPillars: Fast Encoders for Object Detection from Point Clouds)  
+#### [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://distinct-reading-260.notion.site/PointPillar-2a78ef5761ba4736adce2c20027f9f80)      
 
 ![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/PointPillars.png)
 
