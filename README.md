@@ -16,4 +16,5 @@
 
 ![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/PointPillars.png)
 
-
+#### [VoteNet: Deep Hough Voting for 3D Object Detection in Point Clouds](https://distinct-reading-260.notion.site/VoteNet-828064ac02db49a6a4a302d4db00054e)  
+![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/VoteNet.png)
