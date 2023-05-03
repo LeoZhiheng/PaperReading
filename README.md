@@ -21,5 +21,5 @@
 ![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/VoteNet.png)
 
 ### Multi-modal
-#### [PointPainting: Sequential Fusion for 3D Object Detection](https://distinct-reading-260.notion.site/VoteNet-828064ac02db49a6a4a302d4db00054e)  
+#### [PointPainting: Sequential Fusion for 3D Object Detection](https://distinct-reading-260.notion.site/55a00d1884354ff9ad987a2d6eb03f61)  
 ![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/PointPainting.png)
