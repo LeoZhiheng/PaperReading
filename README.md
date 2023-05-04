@@ -5,20 +5,21 @@
 ## 3D Object Detection
 
 ### Classic
-#### [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://distinct-reading-260.notion.site/VoxelNet-2be72e5916f347359e8b4d37d26e877d)     
 
-![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/VoxelNet.png)
-
-#### [SECOND: Sparsely Embedded Convolutional Detection](https://distinct-reading-260.notion.site/VoxelNet-bf05c794364248af81eff1d14bc465b5)     
-
-![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/Second.png)
-
-#### [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://distinct-reading-260.notion.site/PointPillar-2a78ef5761ba4736adce2c20027f9f80)      
-
-![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/PointPillars.png)
+#### [STD: Sparse-to-Dense 3D Object Detector for Point Cloud](https://distinct-reading-260.notion.site/VoteNet-828064ac02db49a6a4a302d4db00054e)  
+![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/STD.png)
 
 #### [VoteNet: Deep Hough Voting for 3D Object Detection in Point Clouds](https://distinct-reading-260.notion.site/VoteNet-828064ac02db49a6a4a302d4db00054e)  
 ![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/VoteNet.png)
+
+#### [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://distinct-reading-260.notion.site/PointPillar-2a78ef5761ba4736adce2c20027f9f80)      
+![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/PointPillars.png)
+
+#### [SECOND: Sparsely Embedded Convolutional Detection](https://distinct-reading-260.notion.site/VoxelNet-bf05c794364248af81eff1d14bc465b5)     
+![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/Second.png)
+
+#### [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://distinct-reading-260.notion.site/VoxelNet-2be72e5916f347359e8b4d37d26e877d)     
+![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/VoxelNet.png)
 
 ### Multi-modal
 #### [PointPainting: Sequential Fusion for 3D Object Detection](https://distinct-reading-260.notion.site/55a00d1884354ff9ad987a2d6eb03f61)  
