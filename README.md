@@ -6,7 +6,7 @@
 
 ### Classic
 
-#### [STD: Sparse-to-Dense 3D Object Detector for Point Cloud](https://distinct-reading-260.notion.site/VoteNet-828064ac02db49a6a4a302d4db00054e)  
+#### [STD: Sparse-to-Dense 3D Object Detector for Point Cloud](https://distinct-reading-260.notion.site/STD-4498cfd9582c443f89224355c0828ea4)  
 ![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/STD.png)
 
 #### [VoteNet: Deep Hough Voting for 3D Object Detection in Point Clouds](https://distinct-reading-260.notion.site/VoteNet-828064ac02db49a6a4a302d4db00054e)  
