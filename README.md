@@ -6,6 +6,9 @@
 
 ### Classic
 
+#### [Center-based 3D Object Detection and Tracking](https://distinct-reading-260.notion.site/CenterPoint-c7e61808e5d442f7850f5349074b74d9)
+![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/CenterPoint.png)
+
 #### [STD: Sparse-to-Dense 3D Object Detector for Point Cloud](https://distinct-reading-260.notion.site/STD-4498cfd9582c443f89224355c0828ea4)  
 ![](https://github.com/LeoZhiheng/PaperReading/blob/main/PaperPicture/STD.png)
 
